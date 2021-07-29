@@ -20,7 +20,7 @@ const studentsResult = students.reduce((acc, curr) => {
 });
 
 // console.log(students);
-// console.log(studentsResult);
+console.log(studentsResult);
 
 
 const numbers = [1, 2, 3, 4];
